@@ -17,7 +17,7 @@
 
     //to push new value in array
     $arr1[4] = "Car4";
-    //or
+    //or    
     $arr1[] = "Car5";
 
     echo "<pre>"; 
