@@ -30,6 +30,6 @@
             echo "<br>You cannot vote anymore";
         }
     }else{
-        echo "<br>You cannot vote"
+        echo "<br>You cannot vote";
     }
 ?>
